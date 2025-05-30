@@ -5,6 +5,11 @@
     color: whitesmoke;
 }
 
+:root {
+  touch-action: pan-x pan-y;
+  height: 100% 
+}
+
 button{
     width: 5rem;
     height: 3rem;
